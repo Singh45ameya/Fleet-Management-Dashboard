@@ -43,6 +43,12 @@ and driver KPIs. This dashboard provides valuable insights to streamline operati
   - Trailer Type: Dry, Fridge, Reefer
   - Truck Types: Box, Semi-Trailer, Tractor, Trailer
 
+## How to Use
+1. **Download the Project**: Clone this repository or download the ZIP file.
+2. **Open the Power BI File**: Open the `.pbix` file in Power BI Desktop.
+3. **Explore the Dashboard: Interact with the visualizations and analyze the data.
+
+
 ## Measures and Formulas Used
 
 **Date Table**:
@@ -58,16 +64,4 @@ ADDCOLUMNS(
     "Days", 1
 )
 
-
-
-## How to Use
-1. **Download the Project**: Clone this repository or download the ZIP file.
-2. **Open the Power BI File**: Open the `.pbix` file in Power BI Desktop.
-3. **Explore the Dashboard: Interact with the visualizations and analyze the data.
-
-## Contributing
-Feel free to fork this project, submit issues and pull requests. We appreciate your contributions.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
